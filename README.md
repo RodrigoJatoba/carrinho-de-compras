@@ -1,7 +1,7 @@
 # 🛒 Carrinho de Compras
 
 <p align="center">
-  <img src="assets/carrinho-de-compras.png" alt="Demonstração do Carrinho de Compras" width="100%">
+  <img src="assets/carrinho-de-compras" alt="Demonstração do Carrinho de Compras" width="100%">
 </p>
 
 ---
