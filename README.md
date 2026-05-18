@@ -31,3 +31,21 @@ Este projeto foi fundamental para consolidar conceitos essenciais de desenvolvim
 1. **Manipulação do DOM:** Captura de valores de elementos de formulário (`<select>` e `<input>`) e inserção dinâmica de novos elementos HTML via JavaScript.
 2. **Tratamento de Strings:** Uso do método `.split()` para extrair o nome do produto e o valor unitário a partir do texto do elemento de seleção.
 3. **Lógica de Acumulação:** Implementação de variáveis globais para rastrear e somar o valor total da compra à medida que novos itens são inseridos.
+
+(Criado pela Alura)
+
+---
+
+## 🌐 Acesse o projeto
+**🔗 Deploy (GitHub Pages):**
+* [https://github.com/RodrigoJatoba/carrinho-de-compras]
+
+---
+
+## 🤝 Contato
+
+**Rodrigo Jatobá** 
+
+[![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoJatoba)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-jatobá-9ab11b238/)
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rodrigosouza_al@hotmail.com)
