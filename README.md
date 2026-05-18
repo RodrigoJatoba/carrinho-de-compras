@@ -44,7 +44,7 @@ Este projeto foi fundamental para consolidar conceitos essenciais de desenvolvim
 
 ## 🌐 Acesse o projeto
 **🔗 Deploy (GitHub Pages):**
-* [https://github.com/RodrigoJatoba/carrinho-de-compras]
+* [https://rodrigojatoba.github.io/carrinho-de-compras/]
 
 ---
 
