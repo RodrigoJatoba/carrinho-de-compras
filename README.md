@@ -1,5 +1,11 @@
 # 🛒 Carrinho de Compras
 
+<p align="center">
+  <img src="img/carrinho-de-compras.png" alt="Demonstração do Carrinho de Compras" width="100%">
+</p>
+
+---
+
 Uma aplicação web interativa e responsiva desenvolvida para simular a experiência de um carrinho de compras de um e-commerce. O projeto permite adicionar produtos, definir quantidades, calcular o valor total de forma dinâmica e limpar a lista de compras.
 
 Desenvolvido como parte dos meus estudos de lógica de programação e manipulação do DOM (Document Object Model) com JavaScript no curso da Alura.
